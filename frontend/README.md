@@ -107,7 +107,7 @@ Frontend runs on:
 http://localhost:5173  
 
 Backend runs on:  
-http://localhost:5000  
+http://localhost:3000  
 
 ---
 
