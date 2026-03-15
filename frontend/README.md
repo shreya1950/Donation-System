@@ -92,7 +92,7 @@ Make sure MongoDB is running locally or update your MongoDB connection string in
 
 Example `.env` file:
 
-PORT=5000  
+PORT=3000  
 MONGO_URI=your_mongodb_connection_string  
 
 ---
